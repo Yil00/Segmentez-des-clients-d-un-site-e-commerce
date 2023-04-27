@@ -14,4 +14,4 @@ Olist, solution de vente sur les marketplaces en ligne, souhaite fournir à ses 
 
    Pour cette mission, Olist fournit une base de données anonymisée comportant des informations sur l’historique de commandes, les produits achetés, les commentaires de satisfaction, et la localisation des clients depuis janvier 2017: [Source-data](https://www.kaggle.com/olistbr/brazilian-ecommerce)
    
-![Olist_Brésil](https://im4.ezgif.com/tmp/ezgif-4-9b274edede.png)
+![p5DS](https://user-images.githubusercontent.com/105881992/234868917-ea637609-e37c-4613-b00a-ab4cb6c5ebef.png)
